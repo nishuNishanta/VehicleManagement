@@ -1,0 +1,428 @@
+[
+    {
+        "Brand Name": "Audi",
+        "Supported Features": "Diagnostics\nLive Data\nBattery Check",
+        "Series Name": [
+            {
+                "A1": {
+                    "Minimum Supported Year": "2010",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "A3": {
+                    "Minimum Supported Year": "1996",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "A4": {
+                    "Minimum Supported Year": "1994",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "A5": {
+                    "Minimum Supported Year": "2007",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "A6": {
+                    "Minimum Supported Year": "1994",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "A7": {
+                    "Minimum Supported Year": "2010",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "A8": {
+                    "Minimum Supported Year": "1994",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Q2": {
+                    "Minimum Supported Year": "2016",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Q3": {
+                    "Minimum Supported Year": "2011",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Q4": {
+                    "Minimum Supported Year": "2019",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Q5": {
+                    "Minimum Supported Year": "2008",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Q7": {
+                    "Minimum Supported Year": "2005",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Q8": {
+                    "Minimum Supported Year": "2018",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "TT": {
+                    "Minimum Supported Year": "1998",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "R8": {
+                    "Minimum Supported Year": "2006",
+                    "Maximum Supported Year": "2023"
+                }
+            }
+        ]
+    },
+    {
+        "Brand Name": "BMW",
+        "Supported Features": "Diagnostics\nLive Data\nBattery Check",
+        "Series Name": [
+            {
+                "e-Tron": {
+                    "Minimum Supported Year": "2019",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "1 Series": {
+                    "Minimum Supported Year": "2010",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "2 Series": {
+                    "Minimum Supported Year": "2004",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "3 Series": {
+                    "Minimum Supported Year": "2005",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "4 Series": {
+                    "Minimum Supported Year": "2014",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "5 Series": {
+                    "Minimum Supported Year": "2010",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "6 Series": {
+                    "Minimum Supported Year": "2011",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "7 Series": {
+                    "Minimum Supported Year": "2009",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "8 Series": {
+                    "Minimum Supported Year": "2019",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "X1 Series": {
+                    "Minimum Supported Year": "2010",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "X2 Series": {
+                    "Minimum Supported Year": "2018",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "X3 Series": {
+                    "Minimum Supported Year": "2004",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "X4 Series": {
+                    "Minimum Supported Year": "2014",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "X5 Series": {
+                    "Minimum Supported Year": "2000",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "X6 Series": {
+                    "Minimum Supported Year": "2008",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "X7 Series": {
+                    "Minimum Supported Year": "2019",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Z4": {
+                    "Minimum Supported Year": "2002",
+                    "Maximum Supported Year": "2023"
+                }
+            }
+        ]
+    },
+    {
+        "Brand Name": "Mercedes",
+        "Supported Features": "Diagnostics\nBattery Check\nCar Check",
+        "Series Name": [
+            {
+                "A Class": {
+                    "Minimum Supported Year": "1997",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "B Class": {
+                    "Minimum Supported Year": "2005",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "C Class": {
+                    "Minimum Supported Year": "1993",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "CLA Class": {
+                    "Minimum Supported Year": "2013",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "CLS Class": {
+                    "Minimum Supported Year": "2004",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "E Class": {
+                    "Minimum Supported Year": "1993",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "G-Class": {
+                    "Minimum Supported Year": "1979",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "GLA Class": {
+                    "Minimum Supported Year": "2014",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "GLB Class": {
+                    "Minimum Supported Year": "2019",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "GLC Class": {
+                    "Minimum Supported Year": "2016",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "GLE Class": {
+                    "Minimum Supported Year": "1997",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "GLS Class": {
+                    "Minimum Supported Year": "2006",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "S Class": {
+                    "Minimum Supported Year": "1972",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "SL Class": {
+                    "Minimum Supported Year": "1954",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "SLC Class": {
+                    "Minimum Supported Year": "1996",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "GLE Coupe": {
+                    "Minimum Supported Year": "2015",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "GLC Coupe": {
+                    "Minimum Supported Year": "2016",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "GLS Coupe": {
+                    "Minimum Supported Year": "2015",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "AMG GT": {
+                    "Minimum Supported Year": "2015",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "EQC": {
+                    "Minimum Supported Year": "2019",
+                    "Maximum Supported Year": "2023"
+                }
+            }
+        ]
+    },
+    {
+        "Brand Name": "Volkswagen",
+        "Supported Features": "Diagnostics\nBattery Check",
+        "Series Name": [
+            {
+                "Polo": {
+                    "Minimum Supported Year": "1975",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Golf": {
+                    "Minimum Supported Year": "1974",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Passat": {
+                    "Minimum Supported Year": "1973",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Arteon": {
+                    "Minimum Supported Year": "2017",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Tiguan": {
+                    "Minimum Supported Year": "2007",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "T-Roc": {
+                    "Minimum Supported Year": "2017",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Touareg": {
+                    "Minimum Supported Year": "2002",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "ID 3": {
+                    "Minimum Supported Year": "2020",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "ID 4": {
+                    "Minimum Supported Year": "2020",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "ID Buzz": {
+                    "Minimum Supported Year": "2022",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Amarok": {
+                    "Minimum Supported Year": "2010",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Caddy": {
+                    "Minimum Supported Year": "1980",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Transporter": {
+                    "Minimum Supported Year": "1950",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "California": {
+                    "Minimum Supported Year": "1988",
+                    "Maximum Supported Year": "2023"
+                }
+            },
+            {
+                "Caravelle": {
+                    "Minimum Supported Year": "1990",
+                    "Maximum Supported Year": "2023"
+                }
+            }
+        ]
+    }
+]
